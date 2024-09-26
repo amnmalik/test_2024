@@ -9,6 +9,8 @@ vignette: >
   %\VignetteEncoding{UTF-8}
 ---
 
+changes
+
 RGCAM provides methods that satisfy the typical use case to get GCAM data out of an output XML database and into R so that a user can use it.  It provides a convenient interface for doing so.  It provides these tools in a modular way so that you can build upon them to extend their capabilities to suite your particular needs.  In this vignette we start with going through basic examples to highlight the features of the package.  Then slowly move into some use cases that are not directly handled by the package but these examples will show simple tweaks to cover those cases.
 
 ## Basic examples
